@@ -1,8 +1,8 @@
 # C_Prog_Interview_Prep
 
-Bit Manipulation
-Arrays
-Strings
-Linked Lists
-Processes.
-Threads.
+1. Bit Manipulation
+2. Arrays
+3. Strings
+4. Linked Lists
+5. Processes.
+6. Threads.
