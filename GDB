@@ -1,0 +1,5 @@
+GDB - GNU Debugger - Software Utility
+A smart tool to debug where your program broke or ran into some problems, Or simply you can use this tool to control/track the flow of program execution.
+
+
+
